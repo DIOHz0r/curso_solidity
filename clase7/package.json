@@ -1,0 +1,14 @@
+{
+  "name": "simple-storage",
+  "version": "1.0.0",
+  "description": "mi primer front",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "static-server public"
+  },
+  "author": "Domingo",
+  "license": "proprietary"
+}
